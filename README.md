@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cglassman
-- 👀 I’m interested in data analysis and data science
-- 🌱 I’m currently learning PostgreSQL, Python and Portuguese
+- 👀 I’m interested in bias corrections for algorithms 
+- 🌱 I’m currently learning ML
 - 💞️ I’m looking to collaborate on: TBD
 - 📫 Call me, beep me, if you wanna reach me
 
